@@ -24,10 +24,15 @@ Vibe-coding的一个自用小工具，若能对你也有所作用，那也算有
 - 开发：Qcwwn Studio (Github@guokaishu)
 - 主页：studio.qcwwn.cn/wrimark
 
+
+
 ---
+
+
 
 # 完整的README.md
 Wrimark是一个轻量级、界面美观的本地 Markdown 编辑器，支持实时预览、HTML 语法和 LaTeX 数学公式渲染。
+
 ![Version](https://img.shields.io/badge/version-0.1.3-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
