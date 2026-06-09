@@ -74,7 +74,6 @@ pip install -r requirements.txt
 python wrimark.py
 ```
 
-也可双击 `启动.bat` 直接启动。
 
 ### 文件关联
 
