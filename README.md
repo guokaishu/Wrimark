@@ -97,4 +97,5 @@ Wrimark/
 MIT License
 
 Copyright © 2026 Qcwwn Studio. All rights reserved.
+
 Copyright © 2026 guokaishu (Github). All rights reserved.
